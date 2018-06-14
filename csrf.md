@@ -6,7 +6,7 @@ Hi,
 
 ## Description
 
-I have found a CSRF issue in xxx tab which allow an attacker to change a user datas whithout his permission.
+I have found a CSRF issue in `xxx` tab thats allows an attacker to change a user datas whithout his permission.
 
 
 ## Steps to reproduce
@@ -23,7 +23,7 @@ I have found a CSRF issue in xxx tab which allow an attacker to change a user da
 ```
 2/ Log on your account  
 3/ open another tab  
-4/ execute the script created previously  
+4/ execute the scrip previously created  
 
 
 ## Risk

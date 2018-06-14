@@ -33,7 +33,7 @@ Check all buckets owned by your company and the ACL to avoid dangerous actions t
 
 ## Additional note
 
-Since there is no way to check the owner of a bucket, it's possible that this bucket doesn't belong to you. In that case, I strongly apologize for the disturbance.
+Since there is no way to check the owner of a bucket, it's possible that this bucket doesn't belong to you. In that case, I strongly apologize for any inconvenience.
 
 
 
